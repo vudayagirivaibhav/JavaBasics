@@ -8,8 +8,8 @@ public class MergeArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String a[] = {"a", "b", "c"};
-	    String b[] = {"d", "e" };
+		String a[] = {"b", "a", "y"};
+	    String b[] = {"a", "m" , "p"};
 
 	    List<String> list = new ArrayList<String>(Arrays.asList(a));
 	    list.addAll(Arrays.asList(b));
